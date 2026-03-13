@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Manasvi Choudhary</h1>
 <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Problem Solver</h3>
 
+<p align="center">
+Building scalable web applications and experimenting with AI systems.
+</p>
+
 ---
 
-## 💫 About Me
-- 🔭 Currently building **Full-Stack MERN applications** & experimenting with **AI/ML models**
-- 👯 Open to collaborate on **Open-Source, Hackathons & Innovative Side Projects**
-- 🤝 Seeking mentorship in **AI/ML, Cloud & System Design**
-- 🌱 Learning **DevOps, AWS/GCP & Scalable System Design**
-- 💬 Ask me about **DSA, Backend Architecture, React Best Practices, API Design**
-- ⚡ Fun fact: *Spent hours debugging… it was a missing semicolon 😄*
+## 🚀 About Me
+
+- 🎓 **B.Tech ECE (3rd Year) — IIIT Surat**
+- 💻 Building **Full-Stack MERN applications**
+- 🤖 Exploring **AI/ML + Computer Vision**
+- 🌱 Currently learning **System Design, DevOps & Cloud**
+- 🧠 Interested in **Backend Systems & AI powered products**
+- ⚡ Fun fact: *Once debugged for 3 hours… it was a missing semicolon.*
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/manasvi-choudhary-8912b02ab" target="blank">
+<a href="https://linkedin.com/in/manasvi-choudhary-8912b02ab">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:manasviwork2007@gmail.com">
@@ -25,49 +31,69 @@
 
 ---
 
-## 💻 Tech Stack
-<p align="left">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+# 💻 Tech Stack
 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white"/>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB"/>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black"/>
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### AI / ML
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+### 🧾 Resume Builder (MERN Stack)
+- Dynamic resume builder with **live preview**
+- Built using **React, Node.js, Express, MongoDB**
+
+### 📊 Crypto Analytics Dashboard
+- Real-time cryptocurrency tracking
+- Built with **React, Redux, APIs**
+
+### ⚽ Football Analytics System
+- Player detection & tracking using **YOLO + OpenCV**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=manasvii20&show_icons=true&theme=highcontrast&hide_border=true" height="160"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=manasvii20&theme=highcontrast&hide_border=true" height="160"/>
 </p>
 
-
-
-## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manasvii20&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=manasvii20&theme=highcontrast&hide_border=false" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvii20&theme=highcontrast&hide_border=false&layout=compact" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvii20&layout=compact&theme=highcontrast&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🔝 Top Contributed Repo
+# 📈 Contribution Graph
+
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=manasvii20&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manasvii20&theme=high-contrast"/>
 </p>
 
 ---
 
 <p align="center">
-⭐ *“Code. Learn. Build. Repeat.”*
+⭐ <i>Code. Learn. Build. Repeat.</i>
 </p>
