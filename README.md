@@ -60,18 +60,17 @@ Building scalable web applications and experimenting with AI systems.
 
 # 📌 Featured Projects
 
-### 🧾 Resume Builder (MERN Stack)
-- Dynamic resume builder with **live preview**
-- Built using **React, Node.js, Express, MongoDB**
+### 🤖 ResumeXpert – AI Resume Builder & ATS Optimizer
+- AI-powered resume builder and analyzer with **ATS scoring and keyword optimization**
+- Implements **job description matching, bullet point rewriting, and resume quality analysis**
+- Built using **MERN stack + Google Gemini API**
 
 ### 📊 Crypto Analytics Dashboard
-- Real-time cryptocurrency tracking
-- Built with **React, Redux, APIs**
+- Real-time cryptocurrency tracking and trend visualization
+- Built with **React, Redux, REST APIs**
 
 ### ⚽ Football Analytics System
-- Player detection & tracking using **YOLO + OpenCV**
-
----
+- Player detection and tracking using **YOLO + OpenCV**
 
 # 📊 GitHub Stats
 
