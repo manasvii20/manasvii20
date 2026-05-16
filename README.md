@@ -9,7 +9,7 @@ Building scalable web applications and AI-powered systems.
 
 ## About Me
 
-- B.Tech ECE (3rd Year) — IIIT Surat  
+- B.Tech ECE — IIIT Surat  
 - Building full-stack MERN applications  
 - Exploring AI/ML and computer vision  
 - Currently learning system design, DevOps, and cloud  
